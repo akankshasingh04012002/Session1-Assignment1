@@ -5,9 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="b5ac42c8-e550-4da8-a7f9-ded57ec7e85e" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/scala/TestElectricityBillCalculator.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/scala/TestElectricityBillCalculator.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Assignment/Assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/modules/Multithreading-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Multithreading/.idea/modules/Multithreading.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProject/.idea/modules/PracticeProject-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../PracticeProject/.idea/modules/PracticeProject.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Rock-the-jvm/Rock-the-jvm.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scala99/.idea/modules/Scala99-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Scala99/.idea/modules/Scala99.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session4Day1Assignment1/src/main/scala/Driver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session4Day1Assignment3/src/main/scala/Driver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session4Day1Assignment4/src/main/scala/Driver.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session4Day1Assignment4/src/test/scala/ArithmeticOperationsTest.scala" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Session4Day3Assignment1/project/plugins.sbt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurpriseTest/.idea/modules/SurpriseTest-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurpriseTest/.idea/modules/SurpriseTest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurpriseTestsByPallav/.idea/modules/SurpriseTestsByPallav-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../SurpriseTestsByPallav/.idea/modules/SurpriseTestsByPrakhar.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testsbt/.idea/modules/sbt_assignment.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testsbt/.idea/modules/testsbt-build.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../testsbt/.idea/modules/testsbt.iml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -21,6 +38,30 @@
     <projectState path="$PROJECT_DIR$">
       <ProjectState />
     </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Session1-Assignment1" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="ScalaTest Class" />
+      </list>
+    </option>
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
@@ -36,13 +77,39 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary": "ScalaTest",
+    "com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrarySuperClass.ScalaTest": "org.scalatest.funsuite.AnyFlatSpec",
+    "last_opened_file_path": "/home/knoldus/Downloads/scala/Session1-Assignment1",
+    "scala_project_settings_configurable.last_selected_tab_index": "6",
+    "settings.editor.selected.configurable": "org.jetbrains.plugins.scala.settings.ScalaProjectSettingsConfigurable"
   }
-}</component>
-  <component name="RunManager">
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="org.scalatest.funsuite.AnyFlatSpec" />
+    </key>
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="" />
+    </key>
+  </component>
+  <component name="RunManager" selected="ScalaTest.ElectricityBillCalculatorTestTwo">
+    <configuration name="ElectricityBillCalculatorTestTwo" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Session1-Assignment1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Class" />
+      <option name="testClassPath" value="ElectricityBillCalculatorTestTwo" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="TestElectricityBillCalculator" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
       <module name="Session1-Assignment1" />
       <option name="allowRunningInParallel" value="false" />
@@ -56,11 +123,44 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestElectricityBillCalculator.testCases2" type="ScalaTestRunConfiguration" factoryName="ScalaTest" temporary="true" nameIsGenerated="true" show_console_on_std_err="false" show_console_on_std_out="false">
+      <module name="Session1-Assignment1" />
+      <option name="allowRunningInParallel" value="false" />
+      <option name="projectPathOnTarget" />
+      <option name="selectedOptions">
+        <list />
+      </option>
+      <option name="testKind" value="Test name" />
+      <option name="testClassPath" value="TestElectricityBillCalculator" />
+      <option name="testName" value="testCases2" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="ScalaTest.ElectricityBillCalculatorTestTwo" />
         <item itemvalue="ScalaTest.TestElectricityBillCalculator" />
+        <item itemvalue="ScalaTest.TestElectricityBillCalculator.testCases2" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="ScalaProjectSettings">
+    <option name="intInjectionMapping">
+      <map>
+        <entry key="html" value="HTML" />
+        <entry key="java" value="JAVA" />
+        <entry key="json" value="JSON" />
+        <entry key="json5" value="JSON5" />
+        <entry key="scala" value="Scala" />
+        <entry key="svg" value="SVG" />
+        <entry key="xhtml" value="XHTML" />
+        <entry key="xml" value="XML" />
+        <entry key="xpath" value="XPath" />
+        <entry key="yaml" value="yaml" />
+      </map>
+    </option>
+    <option name="scala3DisclaimerShown" value="true" />
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
@@ -72,5 +172,9 @@
       <updated>1678861925906</updated>
     </task>
     <servers />
+  </component>
+  <component name="XSLT-Support.FileAssociations.UIState">
+    <expand />
+    <select />
   </component>
 </project>

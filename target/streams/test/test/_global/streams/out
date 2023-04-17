@@ -1,12 +1,19 @@
-[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestElectricityBillCalculator, org.scalatest.tools.Framework$$anon$1@bc500d3, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(ElectricityBillCalculatorTestTwo, org.scalatest.tools.Framework$$anon$1@25a2e708, false, [SuiteSelector])[0m
+[0m[[0m[0mdebug[0m] [0m[0mRunning TaskDef(TestElectricityBillCalculator, org.scalatest.tools.Framework$$anon$1@25a2e708, false, [SuiteSelector])[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mTestElectricityBillCalculator:[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- testCases[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- testCases2[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32m- testCases3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 69 milliseconds.[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 3[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 1, aborted 0[0m[0m
-[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 3, failed 0, canceled 0, ignored 0, pending 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mElectricityBillCalculatorTestTwo:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32mElectricityBillCalculator[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate bill correctly for user1[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate bill correctly for user2[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- should calculate bill correctly for user3[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mRun completed in 254 milliseconds.[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTotal number of tests run: 6[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mSuites: completed 2, aborted 0[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[36mTests: succeeded 6, failed 0, canceled 0, ignored 0, pending 0[0m[0m
 [0m[[0m[0minfo[0m] [0m[0m[32mAll tests passed.[0m[0m
 [0m[[0m[0mdebug[0m] [0m[0mPassed tests:[0m
 [0m[[0m[0mdebug[0m] [0m[0m	TestElectricityBillCalculator[0m
+[0m[[0m[0mdebug[0m] [0m[0m	ElectricityBillCalculatorTestTwo[0m
